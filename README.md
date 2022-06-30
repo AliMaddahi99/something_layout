@@ -1,3 +1,3 @@
 # something_layout
 
-A new Flutter project to learn Flutter.
+A new Flutter project to LEARNING FLUTTER.
